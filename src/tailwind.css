@@ -1,0 +1,16 @@
+/* FONTS */
+/* delius */
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+    --font-delius: "Delius", cursive;
+
+    --color-retro-red:      #ca3c4a;
+    --color-retro-orange:   #ef7546;
+    --color-retro-yellow:   #f2c665;
+    --color-retro-blue:     #99beb7;
+    --color-retro-white:    #e3dec8;
+
+}
